@@ -60,7 +60,7 @@ It looks like you are setting up a website for a Data Carpentry curriculum but y
 {% endunless %}
 {% endif %}
 
-<h2><a href="https://outlibrary.co1.qualtrics.com/jfe/form/SV_5tnSsgLFwuFXnJH"Register Here</a></h2>
+<h2><a href="https://outlibrary.co1.qualtrics.com/jfe/form/SV_5tnSsgLFwuFXnJH" Register Here</a></h2>
 <p>Registration is required for this workshop.</p>
 {% comment %}
 EVENTBRITE
